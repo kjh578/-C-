@@ -6,5 +6,5 @@ int main()
     y= 5;
     area = (x * y);
     printf("%d",area);
-    return0;
+    return 0;
 }
